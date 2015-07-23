@@ -2,6 +2,6 @@
 GitHub example
 
 July 22
-Written by Andrew Steffen
+Written by Andrew Steffen, asteffen411@gmail.com
 Just going through an example to make sure GitHub is setup correctly on this system.
 
